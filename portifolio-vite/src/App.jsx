@@ -17,10 +17,6 @@ function App() {
           Github
         </button>
         </a>
-        <button href="github.com/Olivictor-gif">
-          Github
-        </button>
-       
       </div>
       
     </>
